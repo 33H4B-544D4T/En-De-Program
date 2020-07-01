@@ -13,7 +13,7 @@ dec_hist = {}
 #--------- Plain Alphanumeric List including 'Space'
 plain_characters = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', ' ']
 
-#--------- Refrence Encryption List
+#--------- Reference Encryption List
 encryption_list = ['A@', 'A#', 'A$', 'A%', 'B@', 'B#', 'B$', 'B%', 'C@', 'C#', 'C$', 'C%', 'D@', 'D#', 'D$', 'D%', 'E@', 'E#', 'E$', 'E%', 'F!', 'F@', 'F#', 'F$', 'F%', 'F^', 'A!', 'A^', 'B!', 'B^', 'C!', 'C^', 'D!', 'D^', 'E!', 'E^', '~']
 
 print('Welcome to En-Decryption Algorithm.\n')
